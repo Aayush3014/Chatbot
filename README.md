@@ -22,5 +22,9 @@ Use  HTTP POST for initial communication and WebSocket for real-time communicati
 * It will install all the necessary dependencies.
 * run this command: `python3 app.py`
 
-![screenshot] (file:///home/ayush/Pictures/Screenshots/Screenshot%20from%202023-08-19%2011-55-45.png)
-file:///home/ayush/Pictures/Screenshots/Screenshot%20from%202023-08-19%2011-56-01.png
+## After Execution of app.py
+
+![Screenshot from 2023-08-19 11-55-45](https://github.com/Aayush3014/Chatbot/assets/83333424/4cb82067-c270-4551-94b6-f5f27899e61d)
+
+## Required Output
+![Screenshot from 2023-08-19 11-56-01](https://github.com/Aayush3014/Chatbot/assets/83333424/cda48d8c-2a6e-43c1-9d90-418989fed984)
